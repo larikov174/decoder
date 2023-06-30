@@ -1,0 +1,31 @@
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+	max-width: 70vw;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+td, th {
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 8px;
+}
+
+tr:hover {
+	background-color: #d9d8d8;
+}
+
+.index-column {
+	width: 50px;
+}
+
+.date-column {
+	width: 300px;
+}
+
+.cell-with-date {
+	user-select: none;
+	cursor: pointer;
+}
