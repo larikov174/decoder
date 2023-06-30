@@ -1,7 +1,0 @@
-package.json
-package-lock.json
-boilerplate.config.js
-jest-setup.js
-*.md
-*.css
-public/

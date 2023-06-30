@@ -1,8 +1,0 @@
-**/*.cspec.*
-**/*.spec.*
-**/__snapshots__/
-.*
-
-/dist/
-/src/dev/app-dev.*
-/boilerplate.config.js

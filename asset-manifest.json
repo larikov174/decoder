@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/decoder/static/css/main.7ae3fdd4.css",
+    "main.js": "/decoder/static/js/main.4a40aba4.js",
+    "index.html": "/decoder/index.html",
+    "main.7ae3fdd4.css.map": "/decoder/static/css/main.7ae3fdd4.css.map",
+    "main.4a40aba4.js.map": "/decoder/static/js/main.4a40aba4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ae3fdd4.css",
+    "static/js/main.4a40aba4.js"
+  ]
+}
